@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=MinhMCPC&desc=code%20kh%20chạy%20là%20do%20ý%20trời&section=header&reversal=false&fontColor=ffffff&fontSize=60&descFontSize=20&descAlignY=68" width="100%" />
-</p>
+<img width="100%" alt="Header Background" src="./assets/bg.jpg" />
 
 <div align="center">
 
