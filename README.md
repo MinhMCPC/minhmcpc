@@ -39,6 +39,11 @@ Founder @ <a href="https://studio.minhmcpc.io">Corelinks Studio</a> • Communit
 
 ---
 
+> [!NOTE]
+> 📌 **Credits**: Repository layout, workflows & aesthetic structure are forked and adapted from [**akk1to/akk1to**](https://github.com/akk1to/akk1to). Special thanks to [@akk1to](https://github.com/akk1to) for the inspiring profile setup!
+
+---
+
 # 👨‍💻 About Me
 
 Xin chào! Mình là **MinhMCPC** — lập trình viên đam mê kiến trúc hệ thống, phát triển server & công cụ mã nguồn mở từ Việt Nam 🇻🇳.
@@ -181,4 +186,7 @@ Xin chào! Mình là **MinhMCPC** — lập trình viên đam mê kiến trúc h
 
 ---
 
-<p align="center">Copyright © 2026 MinhMCPC. Powered by EndeavourOS & Hyprland.</p>
+<p align="center">
+  💡 <i>Forked and adapted from <a href="https://github.com/akk1to/akk1to"><b>akk1to/akk1to</b></a></i><br>
+  Copyright © 2026 MinhMCPC. Powered by EndeavourOS & Hyprland.
+</p>

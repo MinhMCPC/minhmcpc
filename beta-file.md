@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=MinhMCPC&desc=code%20kh%20chạy%20là%20do%20ý%20trời&textBg=false&section=header)
 
+> [!NOTE]
+> 📌 **Credits**: Repository layout, workflows & aesthetic structure are forked and adapted from [**akk1to/akk1to**](https://github.com/akk1to/akk1to). Special thanks to [@akk1to](https://github.com/akk1to) for the inspiring profile setup!
+
 # Welcome to my profile!
 Hello world! I'm **MinhMCPC**, a software developer & system enthusiast from Vietnam 🇻🇳!
 I'm addicted to building applications, tinkering with game servers, and architecting distributed automation systems (and breaking them along the way lmao).
@@ -164,4 +167,7 @@ I love low-level engineering, Linux customizations, competitive programming, and
 
 ---
 
-<p align="center">Copyright © 2026 minhmcpc.fun</p>
+<p align="center">
+  💡 <i>Forked and adapted from <a href="https://github.com/akk1to/akk1to"><b>akk1to/akk1to</b></a></i><br>
+  Copyright © 2026 minhmcpc.fun
+</p>
