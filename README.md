@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="./assets/avatar/avatar.jpg" width="130" height="130" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="MinhMCPC Avatar" />
-
-<br>
 <h1>minhmcpc</h1>
 
 <b>Full-Stack Developer • System Engineer • Minecraft & Tooling Specialist</b><br>
