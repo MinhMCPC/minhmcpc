@@ -115,17 +115,30 @@ Xin chào! Mình là **MinhMCPC** — lập trình viên đam mê kiến trúc h
 ## 💻 About My Workspace
 
 ```
-Host: GIGABYTE GAMING A16 CVH (-CF)
-OS: EndeavourOS x86_64 [Kernel Linux 6.18.58-1-lts]
-Window Manager: Hyprland 0.56.2 (Custom SekaiPop / PJSekai Rice)
-CPU: 13th Gen Intel(R) Core(TM) i7-13620H (12 Cores / 16 Threads @ up to 4.90 GHz)
-GPU 1: NVIDIA GeForce RTX 5060 Max-Q / Mobile (GDDR6)
-GPU 2: Intel UHD Graphics @ 1.50 GHz
-Memory: 16 GB DDR5 RAM
-Display: 16" WUXGA (1920x1200) @ 165Hz IPS
-Terminal & Shell: agy / Foot / Alacritty + Bash 5.3
-Editor & Tools: Visual Studio Code, Docker, Claude Code, Antigravity
-Aesthetics: Project Sekai & Mao Mao (The Apothecary Diaries)
+                     ./o.                   minhmcpc@self
+                   ./sssso-                 -------------
+                 `:osssssss+-               OS: EndeavourOS x86_64
+               `:+sssssssssso/.             Host: GIGABYTE GAMING A16 CVH (-CF)
+             `-/ossssssssssssso/.           Kernel: Linux 6.18.58-1-lts
+           `-/+sssssssssssssssso+:`         Uptime: 1 hour
+         `-:/+sssssssssssssssssso+/.        Packages: 29 (flatpak), 1340 (pacman)
+       `.://osssssssssssssssssssso++-       Shell: bash 5.3.20
+      .://+ssssssssssssssssssssssso++:      Display (BOE0B77): 1920x1200 in 16", 165 Hz [Built-in]
+    .:///ossssssssssssssssssssssssso++:     Window Manager: Hyprland 0.56.2
+  `:////ssssssssssssssssssssssssssso+++.    Theme: sekaipop-adw-gtk3-dark [GTK2/3/4]
+`-////+ssssssssssssssssssssssssssso++++-    Icons: breeze-dark [GTK2/3/4]
+ `..-+oosssssssssssssssssssssssso+++++/`    Cursor: Bibata-Modern-Classic (24px)
+   ./++++++++++++++++++++++++++++++/:.      Terminal: kitty 0.49.2
+  `:::::::::::::::::::::::::------``        CPU: 13th Gen Intel(R) Core(TM) i7-13620H (12+4) @ 4.90 GHz
+                                            GPU 1: NVIDIA GeForce RTX 5060 Max-Q / Mobile [Discrete]
+                                            GPU 2: Intel UHD Graphics @ 1.50 GHz [Integrated]
+                                            Memory: 6.32 GiB / 15.25 GiB (41%)
+                                            Swap: Disabled
+                                            Disk (/): 53.19 GiB / 115.59 GiB (46%) - ext4
+                                            Disk (/mnt/c): 122.12 GiB / 149.12 GiB (82%) - ntfs3
+                                            Disk (/mnt/d): 160.39 GiB / 206.73 GiB (78%) - ntfs3
+                                            Battery (GAD-640): 70% [AC Connected, Charging]
+                                            Locale: en_US.UTF-8
 ```
 
 <p align="center">
